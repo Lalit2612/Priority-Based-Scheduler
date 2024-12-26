@@ -80,7 +80,9 @@ There is no READY task at priority 2
 Task Print Hello World is now in READY state
 
 The task Print Hello World is now in RUNNING state for 5 seconds
+
 The task Print Hello World has completed its execution and is now in READY state
+
 The task being removed now is Print Hello World
 
 The scheduler has completed its cycle
