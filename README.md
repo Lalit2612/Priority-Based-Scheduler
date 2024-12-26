@@ -18,7 +18,7 @@ The features of scheduler are as below:
 
 ## Priority_Array_Structure
 
-![Priority_Array_Structure](https://raw.githubusercontent.com/Lalit2612/Priority-Based-Scheduler/refs/heads/master/Priority_Array_Structure.png)
+![Priority_Array_Structure](https://raw.githubusercontent.com/Lalit2612/Priority-Based-Scheduler/refs/heads/master/Example_image.jpg)
 
 
 ## Output Demo
